@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { FaAngleDoubleRight } from "react-icons/fa";
 import "./App.css";
 
-const url = "https://course-api.com/react-tabs-project";
+const url = "https://course-api.com.....;
 
 function App() {
   const [loading, setLoading] = useState(true);
